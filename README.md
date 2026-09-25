@@ -162,8 +162,7 @@ The cleaned data was loaded into a relational database for structured analysis.
 SQL analysis was performed using:
 
 * **PostgreSQL**
-* **MySQL**
-* **Microsoft SQL Server**
+
 
 ### SQL Analysis Included
 
@@ -211,10 +210,7 @@ An interactive dashboard was developed using **Microsoft Power BI**.
 
 The dashboard allows users to interact with the data and quickly identify important insights.
 
-### 🔗 Dashboard
 
-**Power BI Dashboard:**
-*Add your Power BI link here*
 
 ---
 
@@ -242,42 +238,13 @@ The analysis generated meaningful insights from the dataset, including:
 
 ---
 
-## 📝 7. Analytical Report
-
-A detailed report was prepared to document the complete analytical process.
-
-The report includes:
-
-1. Introduction
-2. Problem Statement
-3. Dataset Description
-4. Data Preprocessing
-5. Exploratory Data Analysis
-6. SQL Analysis
-7. Power BI Dashboard
-8. Key Findings
-9. Business Insights
-10. Conclusion
 
 ---
 
-## 🎤 8. Project Presentation
+## 🎤 7. Project Presentation
 
 A professional presentation was created using **Gamma** to communicate the project effectively.
 
-The presentation covers:
-
-* Problem Statement
-* Project Objectives
-* Dataset
-* Methodology
-* EDA
-* Data Cleaning
-* SQL Analysis
-* Power BI Dashboard
-* Key Insights
-* Results
-* Conclusion
 
 ---
 
@@ -300,31 +267,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 Place the dataset inside the appropriate project directory.
 
-Example:
 
-```text
-project/
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebooks/
-│   └── data_analysis.ipynb
-│
-├── sql/
-│   └── analysis_queries.sql
-│
-├── powerbi/
-│   └── dashboard.pbix
-│
-├── report/
-│   └── analytical_report.pdf
-│
-├── presentation/
-│   └── project_presentation.pdf
-│
-└── README.md
-```
 
 ### 4. Run the Python Analysis
 
@@ -346,11 +289,9 @@ Run the analysis notebook step by step to perform:
 
 Import the cleaned dataset into **PostgreSQL, MySQL, or SQL Server** and execute the SQL scripts available in the `sql` folder.
 
-### 6. Open the Power BI Dashboard
+### 6. Create the Power BI Dashboard
 
-Open the `.pbix` file using **Microsoft Power BI Desktop**.
 
-Update the data source if required and refresh the dashboard.
 
 <img width="1329" height="742" alt="{A7CEA95A-3084-4424-9518-A4739FDDDB70}" src="https://github.com/user-attachments/assets/86fe833c-c825-4e92-967d-03fdbf0e2c9c" />
 
